@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-05-12T07:00:00Z
-draft = true
 excerpt = "Wow this guy is crazy..."
 hero = ""
 timeToRead = 8
